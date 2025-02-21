@@ -1,4 +1,0 @@
-Sitemap: https://innerhealing.love/sitemap-0.xml
-
-User-agent: *
-Disallow:
